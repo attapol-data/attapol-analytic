@@ -26,7 +26,7 @@ The project highlights proficiency in database management, complex SQL transform
 
 | Tableau Dashboard 
 | :---: | 
-| ![Tableau Dashboard](Image/Dashboard.png)
+| ![Tableau Dashboard](Images/Dashboard.png)
 
 [Click here to explore the Interactive Tableau Dashboard](https://public.tableau.com/app/profile/attapol.singhprasert/viz/Analytic_rides/Dashboard1#1)
 
