@@ -63,7 +63,7 @@ attapol-data/
 │   └── users.csv
 ├── Scripts/
 │   └── analysis_rides_script.sql
-├── images/
+├── image/
 │   └── Dashboard.png
 └── README.md
 
